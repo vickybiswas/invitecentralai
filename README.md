@@ -22,3 +22,15 @@
 ### DB - Dynamo DB single Table Design taking all efforts to keep the costs as low as possible (Priority 1) deployed using serverless framework
 ### Queue - SQS with Worker Lambda to handle async tasks deployed using serverless framework
 ### External API Gateway - Fast API servers for internal consumption which interact with payment gateway, printers, etc. 
+
+1. Clarity of Idea - What is to be done
+2. Personas
+3. UI Design on what we need this to look like
+4. UI Functionality for how the UI functions and what they see/share
+5. Sample Data for UI and how it should look
+6. Schema(Query Pattern) for the UI
+7. Model (Relational Model) for understanding data
+8. DB design DynamoDB or PostGres
+9. API linking Schema to DB and defining functionalities if any for backend.
+
+
